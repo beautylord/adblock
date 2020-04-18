@@ -102,5 +102,4 @@ dl.ubnt.com
 analytics.plex.tv
 csi.gstatic.com
 edge.steam-dns-2.top.comcast.net
-settings-win.data.microsoft.com
 vortex-win.data.microsoft.com
