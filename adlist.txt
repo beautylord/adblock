@@ -98,7 +98,6 @@ metrics.plex.tv
 news.provider.plex.tv
 ghostery-collector.ghostery.com
 ping.ui.com
-dl.ubnt.com
 analytics.plex.tv
 csi.gstatic.com
 edge.steam-dns-2.top.comcast.net
